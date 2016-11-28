@@ -1,5 +1,3 @@
-# mask
-
 这是一个前端初学者开发的一个最简单的插件，不喜勿喷。
 
 <b>使用方法：</b>
@@ -15,3 +13,6 @@ DJMask.open({<br>
 　　title:"修改",{<br>
 　　content："text"{<br>
 });<br>
+
+4.加载动画<br>
+DJMask.loading();<br>
