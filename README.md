@@ -10,9 +10,10 @@ DJMask.alert("hello html!");<br/>
 
 3.打开一个窗口：<br/>
 DJMask.open({<br>
-　　title:"修改",{<br>
-　　content："text"{<br>
+　　title:"修改",<br>
+　　content："text"<br>
 });<br>
 
 4.加载动画<br>
 DJMask.loading();<br>
+DJMask.loading("close");<br>
