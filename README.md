@@ -35,7 +35,7 @@ alert提醒：DJMask.alert("你好,Mo")<br>
 
 参数配置：<br>
 
-　　　DJMask.open({<br>
+DJMask.open({<br>
 		　　width:"500px",<br>
 		　　height:"300px",<br>
 		　　title:"你好，DJMask",<br>
